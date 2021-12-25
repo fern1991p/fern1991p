@@ -50,5 +50,3 @@ I am all about science and technology. I am always looking for new approaches to
 [![Fern's github stats](https://github-readme-stats.vercel.app/api?username=fern1991p)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fern1991p&layout=compact)]
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=fern1991p.fern1991p)]

@@ -3,7 +3,7 @@ Hi there, I'm Fern </a> 🌿👋
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Scientist 🔬 and coffee lover ☕!
+I'm a Full-Stack Web Developer 💻, Scientist 🔬 and Barista ☕!
 </h2> 
 
 I am all about science and technology. I am always looking for new approaches to develop my personal and professional growth. I found computer science and modern technologies exciting, so I was ready to explore this programming world.

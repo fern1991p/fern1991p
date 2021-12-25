@@ -3,7 +3,7 @@ Hi there, I'm Fern </a> 🌿👋
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Scientist 🔬 and Barista ☕!
+I'm a Full-Stack Web Developer 💻, Scientist 🔬 and coffee lover ☕!
 </h2> 
 
 I am all about science and technology. I am always looking for new approaches to develop my personal and professional growth. I found computer science and modern technologies exciting, so I was ready to explore this programming world.
@@ -11,10 +11,9 @@ I am all about science and technology. I am always looking for new approaches to
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/fernanda-pontual/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Fern| LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/fernandapontual_"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Fern | Instagram" width="21px"/></a>
 
 </br>
-- 💬 I love meeting new people over a cup of coffee (even if I am a bit snobby on how roasted I like my coffee) but hey, feel free to reach out.
+- 💬 I love meeting new people over a cup of coffee. Feel free to reach out.
 
 ## 🔭 I'm currently working on
 

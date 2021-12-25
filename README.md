@@ -13,7 +13,7 @@ I am all about science and technology. I am always looking for new approaches to
 
 
 </br>
-- 💬 I love meeting new people over a cup of coffee. Feel free to reach out @ <a href="https://www.linkedin.com/in/fernanda-pontual/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Fern| LinkedIn" width="21px"/></a>
+- 💬 I love meeting new people over a cup of coffee. Feel free to reach out @ "https://www.linkedin.com/in/fernanda-pontual/
 
 ## 🔭 I'm currently working on
 

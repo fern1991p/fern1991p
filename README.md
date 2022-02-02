@@ -1,6 +1,6 @@
-<h4 align="center">
+<h2 align="center">
 Hi there, I'm Fern </a> 🌿👋
-</h4>
+</h2>
 
 <h3 align="center">
 I'm a Full-Stack Web Developer 💻, Scientist 🔬, and Barista ☕!

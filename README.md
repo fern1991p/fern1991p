@@ -1,10 +1,10 @@
-<h3 align="center">
+<h4 align="center">
 Hi there, I'm Fern </a> 🌿👋
-</h3>
+</h4>
 
-<h2 align="center">
+<h3 align="center">
 I'm a Full-Stack Web Developer 💻, Scientist 🔬, and Barista ☕!
-</h2> 
+</h3> 
 
 I am all about science and technology. I am always looking for new approaches to develop my personal and professional growth. I found computer science and modern technologies exciting, so I was ready to explore this programming world.
 
